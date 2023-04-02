@@ -18,5 +18,5 @@ quo==2022.8.2
 rich
 requests
 scipy
-sklearn
+scikit-learn
 termcolor
